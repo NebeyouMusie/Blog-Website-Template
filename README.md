@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Blog Website Template
 
 ## Project info
 
